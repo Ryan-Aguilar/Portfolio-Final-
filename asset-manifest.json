@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f0845fe2.css",
-    "main.js": "/Portfolio/static/js/main.bebbd250.js",
-    "static/media/homePagePic.jpg": "/Portfolio/static/media/homePagePic.6aa4c711ae0d1ac1b9bc.jpg",
-    "static/media/workout.jpg": "/Portfolio/static/media/workout.85e8b8fe49a0db7c7659.jpg",
-    "static/media/playerpro.JPG": "/Portfolio/static/media/playerpro.41c9cc85ab308e021bde.JPG",
-    "static/media/mexicosoccer.jpg": "/Portfolio/static/media/mexicosoccer.65b61b2ae244cf548266.jpg",
-    "static/media/contactProfilePic.jpg": "/Portfolio/static/media/contactProfilePic.fb669303435258cfd26b.jpg",
-    "static/media/eminem.jpg": "/Portfolio/static/media/eminem.ac024a2731c700ed816f.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.f0845fe2.css.map": "/Portfolio/static/css/main.f0845fe2.css.map",
-    "main.bebbd250.js.map": "/Portfolio/static/js/main.bebbd250.js.map"
+    "main.css": "/Portfolio-Final-/static/css/main.f0845fe2.css",
+    "main.js": "/Portfolio-Final-/static/js/main.e59fff3a.js",
+    "static/media/homePagePic.jpg": "/Portfolio-Final-/static/media/homePagePic.6aa4c711ae0d1ac1b9bc.jpg",
+    "static/media/workout.jpg": "/Portfolio-Final-/static/media/workout.85e8b8fe49a0db7c7659.jpg",
+    "static/media/playerpro.JPG": "/Portfolio-Final-/static/media/playerpro.41c9cc85ab308e021bde.JPG",
+    "static/media/mexicosoccer.jpg": "/Portfolio-Final-/static/media/mexicosoccer.65b61b2ae244cf548266.jpg",
+    "static/media/contactProfilePic.jpg": "/Portfolio-Final-/static/media/contactProfilePic.fb669303435258cfd26b.jpg",
+    "static/media/eminem.jpg": "/Portfolio-Final-/static/media/eminem.ac024a2731c700ed816f.jpg",
+    "index.html": "/Portfolio-Final-/index.html",
+    "main.f0845fe2.css.map": "/Portfolio-Final-/static/css/main.f0845fe2.css.map",
+    "main.e59fff3a.js.map": "/Portfolio-Final-/static/js/main.e59fff3a.js.map"
   },
   "entrypoints": [
     "static/css/main.f0845fe2.css",
-    "static/js/main.bebbd250.js"
+    "static/js/main.e59fff3a.js"
   ]
 }
